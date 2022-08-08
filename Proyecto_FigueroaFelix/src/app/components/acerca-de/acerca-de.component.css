@@ -5,6 +5,7 @@
 div{
     background-color: #a1b5cb;
     text-align: center;
+    justify-content: space-between;
 }
 
 /*Estilo de la foto de perfil*/
@@ -12,7 +13,7 @@ div{
     #fotodeperfil{
         position: absolute;
         width: 15%;
-        border-radius: 100%;
+        border-radius: 90%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
         top: 600px;
@@ -22,7 +23,7 @@ div{
     #fotodeperfil{
         position: absolute;
         width: 30%;
-        border-radius: 100%;
+        border-radius: 90%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
         top: 630px;
@@ -31,5 +32,5 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 1%;
+    margin-top: 25%;
 }
